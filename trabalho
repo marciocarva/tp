@@ -23,5 +23,12 @@ escreva("Digite a nota de fisica:")
 leia(Mfisica[Mturma][Mindice])
 }
 }
+
+para(Mturma=0;Mturma<=1;Mturma++)
+}
+escreva (
+
+
+
 }
 }
