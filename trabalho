@@ -19,3 +19,9 @@ escreva("Digite a nota portugues")
 leia (Mportugues[Mturma][Mindice])
 escreva("Digite a nota de historia:")
 leia (Mingles[Mturma][Mindice])
+escreva("Digite a nota de fisica:")
+leia(Mfisica[Mturma][Mindice])
+}
+}
+}
+}
