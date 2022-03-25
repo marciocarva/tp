@@ -1,0 +1,21 @@
+programa{
+funcao inicio(){
+realMmatematica[3][5],Mportugues[3][5],
+Mhistoria[3][5],Mingles[3][5]
+cadeiaMnome[3][5]
+inteiro Mindice,Mturma
+Mturma=0
+Mindice=0
+para(Mtrma=0;<=2;Mturma++)
+{
+para(Mturma=0;Mturma<5;Mindice+
++)
+[
+escreva("Digite um nome;")
+leia(Mnome[Mturma]Mindice])
+escreva("Digite a nota de matematica;")
+leia(Mmatematica[Mturma][Mindice])
+escreva("Digite a nota portugues")
+leia (Mportugues[Mturma][Mindice])
+escreva("Digite a nota de historia:")
+leia (Mingles[Mturma][Mindice])
