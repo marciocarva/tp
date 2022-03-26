@@ -26,7 +26,15 @@ leia(Mfisica[Mturma][Mindice])
 
 para(Mturma=0;Mturma<=1;Mturma++)
 }
-escreva (
+escreva ("\nAlunos da turma:",Mturma)
+para(Mindice=0;Mindice<=1;Mindice+
++)
+{
+escreva ("\nAluno:",Mnome[Mturma]
+[Mindice])
+}
+}
+
 
 
 
