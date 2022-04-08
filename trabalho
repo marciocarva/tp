@@ -40,3 +40,26 @@ escreva ("\nAluno:",Mnome[Mturma]
 
 }
 }
+programa{
+    funçâo inicio(){
+        realMmatematica[3[][5],Mportugues[3][5],
+        Mhistoria[3][5],Mfisica [3][5]
+        cadeia Mnome[3][5]
+        inteiro Mindice,Mturma
+        Mturma=0
+        Mindice=0
+        para (Mturma=0;Mturma<=2;M)
+    }
+}
+
+para(Mturma=0;Mturma<=1;Mturma++)
+}
+escreva (
+escreva ("\nAlunos da turma:",Mturma)
+para(Mindice=0;Mindice<=1;Mindice+
++)
+{
+escreva ("\nAluno:",Mnome[Mturma]
+[Mindice])
+}
+}
